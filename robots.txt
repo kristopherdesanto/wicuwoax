@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ijeadiesh.marcellodefeo.com/sitemap.xml
